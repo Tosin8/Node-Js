@@ -1,0 +1,11 @@
+DIFFERENCES BETWEEN NODE.JS VS EXPRESS.JS
+
+Node.js - 
+* It's an open source and cross platform runtime environment for running javascript code outside of a browser. 
+* It's neither a framework nor programming language. 
+* It's mostly use for building backend services like APIs for mobile and web app. 
+
+Express.js - 
+* It's a small framework that sits on top of Node.js's web server functionality to simplify its APIs and add helpful new features. 
+* It makes it easier to organize application's functionality wit middle ware and routing. 
+* It adds helpful utilities to Node.js's HTTP objects and facilitates the rendering of dynamic HTTP objects. 
